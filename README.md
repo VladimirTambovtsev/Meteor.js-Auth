@@ -1,2 +1,2 @@
-# Meteor.js with React & MongoDB
+# Meteor.js App with React & MongoDB
  
